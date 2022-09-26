@@ -1,0 +1,33 @@
+.class,
+.classButCooler  {
+
+    background-color: pink;
+
+}
+
+.class  {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.classButCooler  {
+
+    font-size: 24px;
+
+}
+
+#one    {
+
+    color: blue;
+    font-size: 36px;
+
+
+}
+
+#another    {
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
